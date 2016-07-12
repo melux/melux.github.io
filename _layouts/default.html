@@ -9,7 +9,22 @@
 
     <main class="container">
       <div class="row">
-        {{ content }}
+        <aside class="col-md-3 col-sm-3 sidebar">
+
+          <ul class="sidenav dropable sticky">
+            {% for my_category in site.categories %}
+              <li><a href={{ my_category | first | prepend: site.baseurl }}>{{ my_category | first }}</a></li>
+            {% endfor %}
+          </ul>
+
+        </aside>
+        <!-- END Sidebar -->
+
+
+        <!-- Main content -->
+        <article class="col-md-9 col-sm-9 main-content" role="main">
+          {{ content }}
+        </article>
       </div>
     </main>
 
