@@ -1,11 +1,10 @@
 ---
-layout: post
-title:  "Hello World!"
-date:   2016-07-12 14:55:16 +0200
-categories: test
+layout: doc-pages
+permalink: /framework/
 ---
 
 # eRegistrations
+
 ## Base framework for eRegistrations applications
 
 Table of contents:
@@ -913,3 +912,7 @@ After _main_ repository is configured, you can update your fork by executing fol
 * `git push` (push merged changes to github)
 
 After executing above, when you start/restart app, you'll see the most recent version of application.
+
+	</article>
+
+</div>

@@ -6,7 +6,7 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: melux.github.io
+title: eRegistrations
 email: meluxford@meluxford.com
 description: > # this means to ignore newlines until "baseurl:"
   This is a test site. Like... you know, everything is testing, experimentations and failures and successes.
