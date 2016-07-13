@@ -1,6 +1,7 @@
 ---
 layout: doc-pages
 permalink: /installation/
+title: 'Installation'
 ---
 
 # Installation of eRegistrations system

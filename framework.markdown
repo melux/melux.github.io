@@ -1,6 +1,7 @@
 ---
 layout: doc-pages
 permalink: /framework/
+title: 'Base framework'
 ---
 
 # eRegistrations
